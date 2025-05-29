@@ -1,4 +1,4 @@
-package b3;
+package lab3;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
